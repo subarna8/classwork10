@@ -1,0 +1,9 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "classwork10",
+  "main": "index.js",
+  "repository": "https://github.com/subarna8/classwork10.git",
+  "author": "Mahmuda Akhter <1510930@iub.edu.bd>",
+  "license": "MIT"
+}
